@@ -305,7 +305,7 @@ body {
 
 .items .item:hover img {
     -webkit-transform: scale(1.05, 1.05);
-    -moz-transform:scale(1.05, 1.05);
+    -moz-transform: scale(1.05, 1.05);
     -o-transform: scale(1.05, 1.05);
     -ms-transform: scale(1.05, 1.05);
     -transform: scale(1.05, 1.05);
@@ -315,3 +315,16 @@ body {
     padding: 0;
 
 }
+
+.copyrightSection {
+    background-color: #000;
+    color: #fff;
+    padding: 30px, 5px;
+
+}
+
+.copyrightSection p {
+    margin: 0;
+
+}
+
