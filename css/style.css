@@ -328,3 +328,28 @@ body {
 
 }
 
+#navigation {
+    background-color: #bdc3c7;
+    padding: 20px 10px;
+    z-index: 100;
+}
+
+#navigation li {
+    padding: 0 10px;
+}
+
+#navigation li a {
+    color: #000;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+    color: #000;
+
+}
+
+.navbar-toggler-icon {
+    background: url(../img/icons/menuicon.png);
+    background-size: 100%;
+
+}
