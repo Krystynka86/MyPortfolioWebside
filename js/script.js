@@ -69,6 +69,8 @@ $(document).ready(function () {
     $("[data-fancybox]").fancybox();
 
     
+    //https://bootsnipp.com/snippets/1dPDV, https://www.youtube.com/watch?v=7yfGUmSLYlo, https://reecekenney.com/ - developer tools
+    //I have no idea why doesn't work :-(
 
     $(".items").isotope({
         filter: '*',
@@ -77,7 +79,7 @@ $(document).ready(function () {
             easing: 'linear',
             queue: false
 
-        }
+        } 
 
     }); 
 
