@@ -1,6 +1,7 @@
 
 
 body {
+    font-family: 'Poppins';
     font-size: 14px;
     color: #fffffe;
     background-color: #232946;
@@ -72,7 +73,7 @@ body {
 
 .skillsSection,
 .contactSection {
-    background-color: #eebbc3;
+    background-color: #c18e96;
     color: #fff;
 }
 
@@ -140,7 +141,7 @@ body {
     font-size: 56px;
     margin-bottom: 10px;
     font-weight: 400;
-    color: #eebbc3;
+    color: #d9b5bb;
 
 }
    
@@ -172,7 +173,7 @@ body {
 
 .contactButton:hover {
     text-decoration: none;
-    color: #eebbc3;
+    color: #d9b5bb;
     background-color: #232946;
 }
 
@@ -190,8 +191,8 @@ body {
 }
 
 .filter .current {
-    background-color: #eebbc3;
-    border-color: #eebbc3;
+    background-color: #d9b5bb;
+    border-color: #d9b5bb;
     color: #fff;
 }
 
@@ -248,7 +249,7 @@ body {
 .items a {
     width: 40px;
     height: 40px;
-    background-color: #eebbc3;
+    background-color: #d9b5bb;
     position: relative;
     display: inline-block;
     border-radius: 2px;
@@ -320,7 +321,7 @@ body {
 }
 
 #navigation {
-    background-color: #bdc3c7;
+    background-color:  #c48944;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
@@ -337,6 +338,7 @@ body {
 .navbar-brand,
 .navbar-brand:hover {
     color: #000;
+    font-weight: bolder;
 
 }
 

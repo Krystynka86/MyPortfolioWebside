@@ -68,6 +68,8 @@ $(document).ready(function () {
 
     $("[data-fancybox]").fancybox();
 
+    
+
     $(".items").isotope({
         filter: '*',
         animationOptions: {
@@ -77,7 +79,7 @@ $(document).ready(function () {
 
         }
 
-    });
+    }); 
 
     $("#filters a").click(function() {
         
